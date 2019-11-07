@@ -6,10 +6,11 @@
 Welcome to Sample's documentation!
 ==================================
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
-   1/v1
-   2/v2
+   1/getting_started.rst
+   1/test1
+
    
 
 Indices and tables
