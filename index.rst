@@ -6,10 +6,9 @@
 Welcome to Sample's documentation!
 ==================================
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
-   1/v1
-   2/v2
+   2/yolo.rst
    
 
 Indices and tables
